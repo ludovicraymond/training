@@ -1,4 +1,3 @@
-training
-========
+# Training
 
-Training repository
+This is a simple training repository
