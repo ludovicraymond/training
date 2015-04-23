@@ -3,4 +3,4 @@
 Ludo: Test pull-request
 
 
-This is a simple training repository
+This is a simple training repository.
